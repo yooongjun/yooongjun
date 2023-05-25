@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- 백준 -->
 <div align="center">
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=as2680)](https://solved.ac/as2680)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=as2680)](https://solved.ac/as2680)
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yooongjun&show_icons=true&theme=dark ) 
 
 </div>
